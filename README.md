@@ -1,2 +1,2 @@
-# blank
-blank repository
+# RoombaComm
+A Java program to control and test Roombas.
